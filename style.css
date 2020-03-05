@@ -891,7 +891,7 @@ font-size: 36px;
     padding: 0px;
     font-size: 36px;
 }
-@media all and (max-width:1024px){
+@media all and (max-width:2000px){
     table{
          width: 20px;
          height: 20px;
